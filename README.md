@@ -23,4 +23,4 @@ THEN I am presented with the last searched city forecast
  I WANT to see the weather outlook for multiple cities
  SO THAT I can plan a trip accordingly
 ```
-![GitHub Logo](/images/Screenshot 2020-11-18 204054.png)
+![GitHub Logo](/pictures/Screenshot 2020-11-18 204054.png)
