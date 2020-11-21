@@ -1,5 +1,5 @@
 # Weather-DashBoard
-
+https://calvinestrada.github.io/Weather-DashBoard/
 ## Requirements
 
 ```
@@ -23,4 +23,10 @@ THEN I am presented with the last searched city forecast
  I WANT to see the weather outlook for multiple cities
  SO THAT I can plan a trip accordingly
 ```
-![GitHub Logo](/pictures/Screenshot 2020-11-18 204054.png)
+![screenshot](https://github.com/CalvinEstrada/Weather-DashBoard/blob/Master/Screenshot%202020-11-18%20203851.png)
+
+
+![screenshot](https://github.com/CalvinEstrada/Weather-DashBoard/blob/Master/Screenshot%202020-11-18%20203955.png)
+
+
+![screenshot](https://github.com/CalvinEstrada/Weather-DashBoard/blob/Master/Screenshot%202020-11-18%20204054.png)
